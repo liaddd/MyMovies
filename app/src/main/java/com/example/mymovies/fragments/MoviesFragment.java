@@ -107,7 +107,7 @@ public class MoviesFragment extends Fragment {
         if (adapter == null) {
             adapter = new MoviesAdapter(context);
         }
-        GridLayoutManager mLayoutManager = new GridLayoutManager(context, ((MainActivity) context).getScreenWidth(), RecyclerView.VERTICAL, false);
+        GridLayoutManager mLayoutManager = new GridLayoutManager(context, ((MainActivity) context).getItemsInRowByScreenWidth(), RecyclerView.VERTICAL, false);
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setAdapter(adapter);
     }
