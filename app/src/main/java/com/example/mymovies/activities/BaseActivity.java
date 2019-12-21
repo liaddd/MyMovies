@@ -3,7 +3,6 @@ package com.example.mymovies.activities;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 import com.example.mymovies.R;
 import com.example.mymovies.fragments.MovieDetailsFragment;
@@ -74,7 +73,6 @@ public abstract class BaseActivity extends AppCompatActivity {
         DisplayMetrics displayMetrics = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(displayMetrics);
         int width = displayMetrics.widthPixels;
-        Toast.makeText(this, String.valueOf(width), Toast.LENGTH_SHORT).show();
         if (width > 1080 && width < 1280 || width > 2000) {
             return Constants.FOUR_IN_ROW;
         } else if (width > 600 && width <= 800 || width >= 1280) {
