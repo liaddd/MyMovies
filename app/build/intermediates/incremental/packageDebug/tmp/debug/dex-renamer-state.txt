@@ -1,0 +1,4 @@
+#Fri Dec 20 14:09:14 IST 2019
+base.0=/Users/liadhorovitz/Desktop/MyMovies/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

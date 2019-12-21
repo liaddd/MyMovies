@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="invalid_data">Invalid data</string>
+    <string name="release_date">Release Date:</string>
+    <string name="average_rate">Average rate:</string>
+    <string name="like_movie">Like Movie</string>
+    <string name="movie_max_average_vote">/10</string>
+    <string name="movies_database">movies_database</string>
+
+    <!--API KEY-->
+    <string name="api_key">5dbad0d01f3e85175cf98e1ced11eb90</string>
+
+</resources>
