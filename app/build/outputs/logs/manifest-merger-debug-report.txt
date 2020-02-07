@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/a00f4a4bf6ebad893c55d9ca1f37f2e0/AndroidManifest.xml:17:1-24:12
 MERGED from [me.linshen.retrofit2:adapter-livedata:1.0.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/adapter-livedata-1.0.0.aar/40ce86e403b9ac2cae9d8a84bf79fe00/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0-alpha01] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/c4b5d330d19c51dabadf76b0c5292472/AndroidManifest.xml:17:1-24:12
@@ -52,35 +52,35 @@ MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/liadhorovitz/.gradle
 MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.1.aar/bb5cad11b0d1a92b8608215ddc856c57/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b4e7b2e8195d54757837c3afee0138db/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/487f4f0cea8750bec53fd501c5c32457/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:4:5-35
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:7:5-66
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:7:5-66
 	android:name
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:8:5-24:19
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:8:5-24:19
 MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/a00f4a4bf6ebad893c55d9ca1f37f2e0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/a00f4a4bf6ebad893c55d9ca1f37f2e0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/1ed43e1b9bcc78345e21f251d4595973/AndroidManifest.xml:9:5-20
@@ -102,39 +102,39 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/liad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/ddb006a5a46b3a540302e82afaff0e2c/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:11:9-41
 	tools:ignore
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:16:9-48
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:16:9-48
 	android:roundIcon
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:12:9-50
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:12:9-50
 	android:icon
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:10:9-45
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:10:9-45
 	android:allowBackup
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:13:9-49
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:13:9-49
 activity#com.example.mymovies.activities.MainActivity
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:17:9-23:20
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:17:19-58
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:17:19-58
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/a00f4a4bf6ebad893c55d9ca1f37f2e0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.2.0-alpha02] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/a00f4a4bf6ebad893c55d9ca1f37f2e0/AndroidManifest.xml:20:5-44
 MERGED from [me.linshen.retrofit2:adapter-livedata:1.0.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/adapter-livedata-1.0.0.aar/40ce86e403b9ac2cae9d8a84bf79fe00/AndroidManifest.xml:7:5-9:41
@@ -231,16 +231,16 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/liad
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/b4e7b2e8195d54757837c3afee0138db/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/487f4f0cea8750bec53fd501c5c32457/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/487f4f0cea8750bec53fd501c5c32457/AndroidManifest.xml:20:5-44
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		ADDED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/liadhorovitz/Desktop/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/src/main/AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.2] /Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/room-runtime-2.2.2.aar/56e878d87af796f75743d152269c36fe/AndroidManifest.xml:25:9-27:40
 	android:exported

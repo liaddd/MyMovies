@@ -26,8 +26,8 @@ import static com.example.mymovies.utils.Constants.MOVIES_IN_PAGE;
 
 public class MovieRepository {
 
-    public static final String EMPTY_BODY_FROM_WS = "Empty body from ws.";
-    public static final String UNKNOWN_ERROR =  "Unknown error.";
+    private static final String EMPTY_BODY_FROM_WS = "Empty body from ws.";
+    private static final String UNKNOWN_ERROR =  "Unknown error.";
     private MovieDao movieDao;
     private MutableLiveData<Resource<List<Movie>>> moviesLiveData = new MutableLiveData<>();
     private List<Movie> movies = new ArrayList<>();

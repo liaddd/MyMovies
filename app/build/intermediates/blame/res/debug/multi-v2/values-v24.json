@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liadhorovitz/Desktop/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/08892b808f3a54824a72e891e01f7b73/res/values-v24/values-v24.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liadhorovitz/Desktop/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/ddb006a5a46b3a540302e82afaff0e2c/res/values-zh-rTW/values-zh-rTW.xml",
