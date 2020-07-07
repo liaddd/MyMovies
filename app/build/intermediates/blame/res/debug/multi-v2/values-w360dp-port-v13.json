@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liadhorovitz/Desktop/Personal/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+            "outputFile": "/Users/liad/Desktop/Personal/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml",
             "map": [
                 {
-                    "source": "/Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/a00f4a4bf6ebad893c55d9ca1f37f2e0/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
+                    "source": "/Users/liad/.gradle/caches/transforms-1/files-1.1/material-1.2.0-alpha02.aar/54aa4097c682b1ba8bf024c06bcb4002/res/values-w360dp-port-v13/values-w360dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
