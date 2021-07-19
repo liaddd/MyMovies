@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Thu Jun 25 20:26:45 IDT 2020
+#Mon Mar 01 20:51:50 IST 2021
 0.baseType=DIRECTORY
-0.base=/Users/liad/Desktop/Personal/Android/MyMovies/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.base=/Users/liadhorovitz/Desktop/Personal/Development/Android/MyMovies/app/build/intermediates/dex/debug/mergeDexDebug/out
 0.path=classes.dex
 0.set=DEX
 count=1

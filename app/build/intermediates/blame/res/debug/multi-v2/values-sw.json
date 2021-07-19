@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liad/Desktop/Personal/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
+            "outputFile": "/Users/liadhorovitz/Desktop/Personal/Development/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml",
             "map": [
                 {
-                    "source": "/Users/liad/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/9d858b70d22d157576bf94046da94978/res/values-sw/values-sw.xml",
+                    "source": "/Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/ddb006a5a46b3a540302e82afaff0e2c/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/liad/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/3d3b6e9bdc4574de0ab353d71305d2a8/res/values-sw/values-sw.xml",
+                    "source": "/Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/c4b5d330d19c51dabadf76b0c5292472/res/values-sw/values-sw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

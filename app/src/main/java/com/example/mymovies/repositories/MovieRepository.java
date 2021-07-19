@@ -38,6 +38,7 @@ public class MovieRepository {
      * @return A new instance of MovieRepository.
      */
 
+    
     public static synchronized MovieRepository getInstance() {
         if (instance == null){
             instance = new MovieRepository();

@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0-rc03.aar/810cbd2e138ce6847383e2090fca0f6e/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0-rc03.aar/810cbd2e138ce6847383e2090fca0f6e/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0-rc03.aar/33ed1ea8467d7408acbcde31b9dae298/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0-rc03.aar/33ed1ea8467d7408acbcde31b9dae298/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.2.0-rc03.aar/33ed1ea8467d7408acbcde31b9dae298/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/liad/Desktop/Personal/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "/Users/liadhorovitz/Desktop/Personal/Development/Android/MyMovies/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/liad/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/3d3b6e9bdc4574de0ab353d71305d2a8/res/values-port/values-port.xml",
+                    "source": "/Users/liadhorovitz/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/c4b5d330d19c51dabadf76b0c5292472/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
