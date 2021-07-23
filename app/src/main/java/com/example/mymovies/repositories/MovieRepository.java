@@ -2,6 +2,10 @@ package com.example.mymovies.repositories;
 
 import android.os.AsyncTask;
 
+import androidx.annotation.NonNull;
+import androidx.lifecycle.LiveData;
+import androidx.lifecycle.MutableLiveData;
+
 import com.example.mymovies.R;
 import com.example.mymovies.models.Movie;
 import com.example.mymovies.room.MovieDao;
@@ -14,9 +18,6 @@ import com.example.mymovies.utils.Resource;
 import java.util.ArrayList;
 import java.util.List;
 
-import androidx.annotation.NonNull;
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.MutableLiveData;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -38,7 +39,7 @@ public class MovieRepository {
      * @return A new instance of MovieRepository.
      */
 
-    
+
     public static synchronized MovieRepository getInstance() {
         if (instance == null){
             instance = new MovieRepository();
